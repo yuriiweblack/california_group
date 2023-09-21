@@ -13,6 +13,9 @@ def print_hi(name):
 name = input("Enter name: ")
 print(f"My name {name}")
 
+age = input("Enter age: ")
+print(f"Ege: {age}")
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
