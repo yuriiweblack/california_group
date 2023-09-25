@@ -1,0 +1,6 @@
+git remote add origin https://github.com/yuriiweblack/california_group.git
+git branch -M main
+git push -u origin main
+git branch develop
+git branch
+git checkout develop  - перейти до іншої гілки
